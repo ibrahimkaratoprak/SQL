@@ -1,0 +1,4 @@
+--select * from country where country like 'A%a'
+--select * from country where country not like '______n' 
+--select title from film where title ilike '%t%t%t%t%'
+--SELECT * FROM film WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99 
