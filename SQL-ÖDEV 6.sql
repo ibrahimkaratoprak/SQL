@@ -1,0 +1,4 @@
+--SELECT round(AVG(RENTAL_RATE),2) FROM Film
+--select count(title) from film where title ilike 'C%'
+--select length from film where rental_rate=0.99 order by length desc limit 1
+--select count(replacement_cost) from film where length >150
